@@ -1,0 +1,9 @@
+.tomate {
+    background-color: red;
+    background-origin: padding-box;
+    margin: 50px;
+}
+
+.imagem-tomate {
+    width: 350px;
+}
